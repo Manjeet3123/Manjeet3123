@@ -2,9 +2,9 @@
 
 welcome to my GitHub profile! I'm a passionate software developer and ai enthusiast, always eager to learn and explore new technologies. Here's a little bit about me:
 
-
+🌟 ABOUT ME
 <!--
-**Manjeet3123/Manjeet3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently enhancing my skills in GEN AI & LLM.
 
 Here are some ideas to get you started:
 
