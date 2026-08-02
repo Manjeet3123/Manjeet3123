@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Manjeet Singh! 👋
+---
+welcome to my GitHub profile! I'm a passionate software developer and ai enthusiast, always eager to learn and explore new technologies. Here's a little bit about me:
+
 
 <!--
 **Manjeet3123/Manjeet3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
