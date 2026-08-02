@@ -1,5 +1,5 @@
 ## Hi there, I'm Manjeet Singh! 👋
----
+
 welcome to my GitHub profile! I'm a passionate software developer and ai enthusiast, always eager to learn and explore new technologies. Here's a little bit about me:
 
 
