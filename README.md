@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on project related to Gen AI
 - 🌱 I’m currently learning LLM and Multi-Agent AI
 - 💬 Ask me about C++,Python,AWS. 
-- 📫 How to reach me: **LinkedIn:** [Your Name](https://www.linkedin.com/in/manjeet-jakhar23/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manjeet-jakhar23/) | [Email](mailto:your.email@example.com)
